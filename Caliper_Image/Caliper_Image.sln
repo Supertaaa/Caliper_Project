@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliper_Gradient", "Caliper_Gradient\Caliper_Gradient.csproj", "{CA5C10DA-E503-41C0-85DA-799A8A5BC1CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib_Caliper", "Lib_Caliper\Lib_Caliper.csproj", "{58998C71-7DA1-450B-8FF9-84B134501593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Ca_2", "Caliper_Image_Test\Test_Ca_2.csproj", "{BA007F99-B242-4EE2-8DC0-107BF60DEC2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindStraightEdge", "FindStraightEdge\FindStraightEdge.csproj", "{23E2D49D-6AF7-446B-96AA-BB479219FACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA5C10DA-E503-41C0-85DA-799A8A5BC1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5C10DA-E503-41C0-85DA-799A8A5BC1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5C10DA-E503-41C0-85DA-799A8A5BC1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5C10DA-E503-41C0-85DA-799A8A5BC1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58998C71-7DA1-450B-8FF9-84B134501593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58998C71-7DA1-450B-8FF9-84B134501593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58998C71-7DA1-450B-8FF9-84B134501593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58998C71-7DA1-450B-8FF9-84B134501593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA007F99-B242-4EE2-8DC0-107BF60DEC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA007F99-B242-4EE2-8DC0-107BF60DEC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA007F99-B242-4EE2-8DC0-107BF60DEC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA007F99-B242-4EE2-8DC0-107BF60DEC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E2D49D-6AF7-446B-96AA-BB479219FACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E2D49D-6AF7-446B-96AA-BB479219FACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E2D49D-6AF7-446B-96AA-BB479219FACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E2D49D-6AF7-446B-96AA-BB479219FACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C4FD280-D525-4E86-AC87-1F2B4046F320}
+	EndGlobalSection
+EndGlobal
